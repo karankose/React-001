@@ -134,7 +134,7 @@ const handleClear = ()=>{
       </tbody>
 
   </table>
-  
+  <div>footer</div>
   </>
 }
 
